@@ -1,0 +1,15 @@
+C:\Users\111\RiderProjects\LearnArr\LearnArr\bin\Debug\net6.0\LearnArr.exe
+C:\Users\111\RiderProjects\LearnArr\LearnArr\bin\Debug\net6.0\LearnArr.deps.json
+C:\Users\111\RiderProjects\LearnArr\LearnArr\bin\Debug\net6.0\LearnArr.runtimeconfig.json
+C:\Users\111\RiderProjects\LearnArr\LearnArr\bin\Debug\net6.0\LearnArr.dll
+C:\Users\111\RiderProjects\LearnArr\LearnArr\bin\Debug\net6.0\ref\LearnArr.dll
+C:\Users\111\RiderProjects\LearnArr\LearnArr\bin\Debug\net6.0\LearnArr.pdb
+C:\Users\111\RiderProjects\LearnArr\LearnArr\obj\Debug\net6.0\LearnArr.csproj.AssemblyReference.cache
+C:\Users\111\RiderProjects\LearnArr\LearnArr\obj\Debug\net6.0\LearnArr.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\111\RiderProjects\LearnArr\LearnArr\obj\Debug\net6.0\LearnArr.AssemblyInfoInputs.cache
+C:\Users\111\RiderProjects\LearnArr\LearnArr\obj\Debug\net6.0\LearnArr.AssemblyInfo.cs
+C:\Users\111\RiderProjects\LearnArr\LearnArr\obj\Debug\net6.0\LearnArr.csproj.CoreCompileInputs.cache
+C:\Users\111\RiderProjects\LearnArr\LearnArr\obj\Debug\net6.0\LearnArr.dll
+C:\Users\111\RiderProjects\LearnArr\LearnArr\obj\Debug\net6.0\ref\LearnArr.dll
+C:\Users\111\RiderProjects\LearnArr\LearnArr\obj\Debug\net6.0\LearnArr.pdb
+C:\Users\111\RiderProjects\LearnArr\LearnArr\obj\Debug\net6.0\LearnArr.genruntimeconfig.cache
