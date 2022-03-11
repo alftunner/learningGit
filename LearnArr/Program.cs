@@ -1,5 +1,5 @@
 ﻿using static System.Console;
 string a = "Привет Андрей";
-string b= "Ындл";
+string b= "testgitsdsds";
 
 WriteLine(a.IndexOfAny(b.ToCharArray()));
